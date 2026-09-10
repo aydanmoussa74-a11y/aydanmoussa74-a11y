@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Zayd+Musa;Independent+Developer+%26+Builder;Building+Practical+Software+Systems" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Zayd+Musa;PocketDeveloper;Building+Practical+Software+Systems" alt="Typing introduction" />
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aydanmoussa74-a11y)
+<a href="https://github.com/aydanmoussa74-a11y">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<a href="https://discord.gg/DhQ5mZMb">
+<img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white" />
+</a>
 
 </div>
 
@@ -12,140 +18,162 @@
 
 ## About
 
-I'm Zayd Musa, an independent developer and builder focused on understanding how software systems work by building them.
+I'm Zayd Musa, also known as **PocketDeveloper**.
 
-I work across developer tooling, AI-assisted software, web applications, and systems-oriented experiments. I care about making projects useful, understandable, testable, and able to grow without unnecessary complexity.
+I'm an independent developer and builder focused on understanding how software systems work by creating them.
 
-I learn by turning questions and problems into working software, then improving the engineering behind it.
+I work across:
+
+- Developer tooling
+- AI-assisted software
+- Web applications
+- Local-first systems
+- Software architecture
+
+I believe in learning through building:
+
+**Problem → Build → Test → Inspect → Improve**
 
 ---
 
-## Selected Engineering
+# Featured Engineering
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### ctxpack
+## ctxpack
 
 Developer context packaging CLI for AI-assisted workflows.
 
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="18" alt="TypeScript" /> TypeScript &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="18" alt="Node.js" /> Node.js &nbsp;·&nbsp; CLI
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="18" /> TypeScript  
+<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="18" /> Node.js  
+CLI Tooling
 
-Packs a project into structured, AI-ready context while keeping the workflow predictable and developer-focused.
+Packs projects into structured, AI-ready context while keeping workflows predictable and developer-focused.
 
-[View repository](https://github.com/aydanmoussa74-a11y/ctxpack)
+<a href="https://github.com/aydanmoussa74-a11y/ctxpack">View Repository</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### LocalVault
+## LocalVault
 
 Typed local-first storage library for browser applications.
 
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="18" alt="TypeScript" /> TypeScript &nbsp;·&nbsp; IndexedDB &nbsp;·&nbsp; Library
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="18" /> TypeScript  
+IndexedDB  
+Library Design
 
-Provides a small developer-friendly abstraction over native IndexedDB with explicit error semantics and a tested package boundary.
+A developer-friendly abstraction over browser storage with explicit errors and tested package boundaries.
 
-[View repository](https://github.com/aydanmoussa74-a11y/LocalVault-)
+<a href="https://github.com/aydanmoussa74-a11y/LocalVault-">View Repository</a>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### errfix
+## errfix
 
-AI-assisted debugging CLI for turning cryptic errors into useful explanations and possible fixes.
+AI-assisted debugging CLI.
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="18" alt="Python" /> Python &nbsp;·&nbsp; CLI &nbsp;·&nbsp; AI workflows
+<img src="https://cdn.simpleicons.org/python/3776AB" width="18" /> Python  
+CLI  
+AI Workflows
 
-Built with defensive handling, path redaction, terminal formatting, and cross-version testing.
+Transforms confusing errors into structured explanations and possible solutions while focusing on safe handling.
 
-[View repository](https://github.com/aydanmoussa74-a11y/errfix)
+<a href="https://github.com/aydanmoussa74-a11y/errfix">View Repository</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### Atlas
+## Atlas
 
-Experimental AI-native thinking workspace for structured thought, research, and creation.
+Experimental workspace for structured thinking, research, and creation.
 
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="18" alt="TypeScript" /> TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Vite
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="18" /> TypeScript  
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="18" /> React  
+<img src="https://cdn.simpleicons.org/vite/646CFF" width="18" /> Vite
 
-An exploration of modular software for organizing ideas and relationships rather than a conventional note-taking app.
+Exploring better ways to organize ideas, relationships, and creative workflows.
 
-[View repository](https://github.com/aydanmoussa74-a11y/atlas)
+<a href="https://github.com/aydanmoussa74-a11y/atlas">View Repository</a>
 
 </td>
+
 </tr>
 </table>
 
-### Workthru
+---
+
+# Experiments & Applications
+
+## Workthru
 
 A mobile-first workout companion built around guided training, progression, and local-first software.
 
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="18" alt="TypeScript" /> TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Vite &nbsp;·&nbsp; PWA
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="18" /> TypeScript  
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="18" /> React  
+<img src="https://cdn.simpleicons.org/vite/646CFF" width="18" /> Vite  
+PWA
 
-[View repository](https://github.com/aydanmoussa74-a11y/Workthru-)
+<a href="https://github.com/aydanmoussa74-a11y/Workthru-">View Repository</a>
 
 ---
 
-## Engineering Focus
+# Engineering Focus
 
 ```text
-Problem
-   ↓
+Understand
+    ↓
+Design
+    ↓
 Build
-   ↓
+    ↓
 Test
-   ↓
-Inspect
-   ↓
+    ↓
 Improve
 ```
 
-I'm especially interested in:
+Currently exploring:
 
-- Developer tooling and infrastructure
+- Developer tools and infrastructure
 - AI-assisted engineering workflows
-- Software architecture
-- Local-first and offline-capable software
+- Reliable software architecture
+- Local-first applications
 - Programming language design
 - Intelligent software systems
 
 ---
 
-## Technologies
+# Technologies
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="28" alt="TypeScript" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python/3776AB" width="28" alt="Python" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="28" alt="JavaScript" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="28" alt="React" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="28" alt="Node.js" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vite/646CFF" width="28" alt="Vite" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git/F05032" width="28" alt="Git" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/181717" width="28" alt="GitHub" />
+
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" />
+<img src="https://cdn.simpleicons.org/python/3776AB" width="32" />
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="32" />
+<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="32" />
+<img src="https://cdn.simpleicons.org/vite/646CFF" width="32" />
+<img src="https://cdn.simpleicons.org/git/F05032" width="32" />
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" />
+
 </p>
 
 ---
 
-## Activity
+# Current Direction
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aydanmoussa74-a11y&theme=github-dark&hide_border=true" alt="GitHub activity graph" />
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/aydanmoussa74-a11y/aydanmoussa74-a11y/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
-</p>
-
----
-
-## Current Direction
-
-Building stronger engineering fundamentals, shipping more documented software, and exploring how AI can become a useful part of the engineering process without replacing engineering judgment.
+Building stronger engineering fundamentals, shipping documented software, and exploring how AI can become a useful part of engineering without replacing engineering judgment.
 
 ---
 
