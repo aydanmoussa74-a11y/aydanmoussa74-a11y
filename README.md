@@ -1,83 +1,156 @@
-# Zayd Musa
+<div align="center">
 
-**Independent Developer & Builder**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Zayd+Musa;Independent+Developer+%26+Builder;Building+Practical+Software+Systems" alt="Typing introduction" />
 
-I build software to understand how systems work.
+<br />
 
-I'm currently exploring software engineering, AI systems, developer tools, and robotics — mostly by turning ideas into working experiments and gradually improving them.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aydanmoussa74-a11y)
+
+</div>
 
 ---
 
-## Selected Work
+## About
 
-### [Atlas](https://github.com/aydanmoussa74-a11y/atlas)
+I'm Zayd Musa, an independent developer and builder focused on understanding how software systems work by building them.
 
-An experimental thinking workspace built around structured thoughts, relationships, and modular architecture.
+I work across developer tooling, AI-assisted software, web applications, and systems-oriented experiments. I care about making projects useful, understandable, testable, and able to grow without unnecessary complexity.
 
-**TypeScript · React · Vite**
+I learn by turning questions and problems into working software, then improving the engineering behind it.
 
-### [Workthru](https://github.com/aydanmoussa74-a11y/Workthru-)
+---
+
+## Selected Engineering
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ctxpack
+
+Developer context packaging CLI for AI-assisted workflows.
+
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="18" alt="TypeScript" /> TypeScript &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="18" alt="Node.js" /> Node.js &nbsp;·&nbsp; CLI
+
+Packs a project into structured, AI-ready context while keeping the workflow predictable and developer-focused.
+
+[View repository](https://github.com/aydanmoussa74-a11y/ctxpack)
+
+</td>
+<td width="50%" valign="top">
+
+### LocalVault
+
+Typed local-first storage library for browser applications.
+
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="18" alt="TypeScript" /> TypeScript &nbsp;·&nbsp; IndexedDB &nbsp;·&nbsp; Library
+
+Provides a small developer-friendly abstraction over native IndexedDB with explicit error semantics and a tested package boundary.
+
+[View repository](https://github.com/aydanmoussa74-a11y/LocalVault-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### errfix
+
+AI-assisted debugging CLI for turning cryptic errors into useful explanations and possible fixes.
+
+<img src="https://cdn.simpleicons.org/python/3776AB" width="18" alt="Python" /> Python &nbsp;·&nbsp; CLI &nbsp;·&nbsp; AI workflows
+
+Built with defensive handling, path redaction, terminal formatting, and cross-version testing.
+
+[View repository](https://github.com/aydanmoussa74-a11y/errfix)
+
+</td>
+<td width="50%" valign="top">
+
+### Atlas
+
+Experimental AI-native thinking workspace for structured thought, research, and creation.
+
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="18" alt="TypeScript" /> TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Vite
+
+An exploration of modular software for organizing ideas and relationships rather than a conventional note-taking app.
+
+[View repository](https://github.com/aydanmoussa74-a11y/atlas)
+
+</td>
+</tr>
+</table>
+
+### Workthru
 
 A mobile-first workout companion built around guided training, progression, and local-first software.
 
-**TypeScript · React · Vite**
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="18" alt="TypeScript" /> TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Vite &nbsp;·&nbsp; PWA
+
+[View repository](https://github.com/aydanmoussa74-a11y/Workthru-)
 
 ---
 
-## What I'm Exploring
+## Engineering Focus
 
-- Software engineering
-- AI systems & inference
-- Developer tools
-- Programming languages
-- Cloud infrastructure
-- Robotics
+```text
+Problem
+   ↓
+Build
+   ↓
+Test
+   ↓
+Inspect
+   ↓
+Improve
+```
 
----
+I'm especially interested in:
 
-## How I Build
-
-I learn by building.
-
-I usually start with a question, idea, or problem, then try to turn it into something real. The process is as much about understanding the underlying engineering as it is about getting the final result.
-
-I'm especially interested in systems that are modular, understandable, and able to grow without becoming unnecessarily complicated.
-
----
-
-## Current Focus
-
-Building stronger engineering fundamentals and turning more of my experiments into working, documented software.
-
----
-
-## Research & Experiments
-
-I'm also exploring ideas around:
-
-- AI-native development
-- Agentic software
-- AI inference
-- Developer environments
+- Developer tooling and infrastructure
+- AI-assisted engineering workflows
+- Software architecture
+- Local-first and offline-capable software
 - Programming language design
 - Intelligent software systems
 
-Some of these are still private or experimental, so this profile will grow as the work becomes ready to share.
+---
+
+## Technologies
+
+<p align="left">
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="28" alt="TypeScript" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/python/3776AB" width="28" alt="Python" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="28" alt="JavaScript" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="28" alt="React" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="28" alt="Node.js" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vite/646CFF" width="28" alt="Vite" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" width="28" alt="Git" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/181717" width="28" alt="GitHub" />
+</p>
 
 ---
 
-## Tech
+## Activity
 
-**Languages**
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aydanmoussa74-a11y&theme=github-dark&hide_border=true" alt="GitHub activity graph" />
+</p>
 
-TypeScript · Python · JavaScript
-
-**Currently exploring**
-
-Software architecture · AI systems · developer tooling · robotics
+<p align="center">
+<img src="https://raw.githubusercontent.com/aydanmoussa74-a11y/aydanmoussa74-a11y/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+</p>
 
 ---
 
-## Connect
+## Current Direction
 
-[GitHub](https://github.com/aydanmoussa74-a11y)
+Building stronger engineering fundamentals, shipping more documented software, and exploring how AI can become a useful part of the engineering process without replacing engineering judgment.
+
+---
+
+<div align="center">
+
+**Build. Understand. Improve.**
+
+</div>
