@@ -171,6 +171,16 @@ Currently exploring:
 
 ---
 
+# Activity
+
+<p align="center">
+<a href="https://github.com/aydanmoussa74-a11y">
+<img src="https://raw.githubusercontent.com/aydanmoussa74-a11y/aydanmoussa74-a11y/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+</a>
+</p>
+
+---
+
 # Current Direction
 
 Building stronger engineering fundamentals, shipping documented software, and exploring how AI can become a useful part of engineering without replacing engineering judgment.
